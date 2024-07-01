@@ -1,0 +1,6 @@
+@CRUDOperationsWebAPI_HostAddress = http://localhost:5212
+
+GET {{CRUDOperationsWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
